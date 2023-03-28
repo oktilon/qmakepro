@@ -3,6 +3,10 @@
   "displayName": "QMakeProject",
   "description": "QMakeProject syntax highlight",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oktilon/qmakepro"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
